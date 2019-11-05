@@ -1,11 +1,16 @@
 _repo: Punasydan-eli-Metsien-kummitus-Kertomus-Pohjois-Amerikan-Yhdysvalloista_60609
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: P. B. St.
     gutenberg_agent_id: '51052'
     url: http://www.gutenberg.org/2009/agents/51052
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60609#Punasydan-eli-Metsien-kummitus-Kertomus-Pohjois-Amerikan-Yhdysvalloista
 gutenberg_issued: '2019-11-02'
 gutenberg_type: Text
 identifiers:
